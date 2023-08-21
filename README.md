@@ -1,3 +1,3 @@
 # coding-dungeons
 All of my coding learning progress gonna be saved here
-[![](https://i1.wp.com/www.goodworklabs.com/wp-content/uploads/2018/12/C-programming.png)](https://youtu.be/irqbmMNs2Bo)
+[![](https://imgur.com/tBM7ro0)](https://youtu.be/irqbmMNs2Bo)
